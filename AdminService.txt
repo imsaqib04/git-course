@@ -1,3 +1,7 @@
 hello try for branching merging deleting and other features;
 
 logging and logout
+
+new feature added;
+
+changed 1 ;
